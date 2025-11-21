@@ -7,7 +7,7 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### 👨‍🦲 Sobre mí :
 
 
 Como te digo que para aprender a usar la computadora, descompuse la computadora familiar 5 veces y ahora armo computadoras como hobby y estoy en transición laboral al Data Analytics <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdudmV3aG01N2cwbWxidGJnczJldjlud2ZrODlsZzNqa25qZzYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkVpoRawXYW5i/giphy.gif)" width="30"> 
@@ -16,11 +16,10 @@ Como te digo que para aprender a usar la computadora, descompuse la computadora 
 
 * 📖 Estoy cursando el bootcamp de Analisis de datos de Tripleten.
   
-* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
+* 📗 Desde mi primer trabajo la parte que mas disfrute fue la de usar excel y manejar datos.
 
 * 😁 ¿Quieres saber mas? Mandame un mensaje: [![Linkedin Badge](https://img.shields.io/badge/Guillermo-83E22B)](https://www.linkedin.com/in/guillermo-salgado-ortiz/)
    
-
 
 ---
 
