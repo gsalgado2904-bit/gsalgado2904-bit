@@ -19,7 +19,7 @@
 
  
 
-### :hammer_and_wrench: Redes Sociales :
+### :accessibility: Redes Sociales :
  <div id="badges" align="center">
 
 <div id="badges" align="center">
