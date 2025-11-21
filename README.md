@@ -10,15 +10,15 @@
 ### :woman_technologist: Sobre mí :
 
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Como te digo que para aprender a usar la computadora, descompuse la computadora familiar 5 veces y ahora armo computadoras como hobby y estoy en transición laboral al Data Analytics <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdudmV3aG01N2cwbWxidGJnczJldjlud2ZrODlsZzNqa25qZzYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkVpoRawXYW5i/giphy.gif)" width="30"> 
    
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
+* 🚚 Actualmente trabajo en logisitca como representante de cuentas, pero siempre he sabido que lo mio son los datos 🧾  
 
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
-
+* 📖 Estoy cursando el bootcamp de Analisis de datos de Tripleten.
+  
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
-* 😁 Mas sobre mi: [![Linkedin Badge](https://img.shields.io/badge/Guillermo-83E22B)](https://www.linkedin.com/in/guillermo-salgado-ortiz/)
+* 😁 ¿Quieres saber mas? Mandame un mensaje: [![Linkedin Badge](https://img.shields.io/badge/Guillermo-83E22B)](https://www.linkedin.com/in/guillermo-salgado-ortiz/)
    
 
 
