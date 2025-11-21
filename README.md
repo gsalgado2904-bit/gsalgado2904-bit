@@ -19,7 +19,7 @@
 
  
 
-### :people_hugging: Redes Sociales :
+### :hammer_and_wrench: Redes Sociales :
  <div id="badges" align="center">
 
 <div id="badges" align="center">
