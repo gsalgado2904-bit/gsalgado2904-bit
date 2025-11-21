@@ -43,7 +43,11 @@ Como te digo que para aprender a usar la computadora, descompuse la computadora 
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-salgado-ortiz/) 
 
+
+ ### :fire: Mis estadísticas :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsalgado2904-bit&theme=dark&background=000000)](https://git.io/streak-stats)
+
  
 
 
