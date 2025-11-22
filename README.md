@@ -1,3 +1,5 @@
+![Example Image](Banner.jpg)
+
   
    <h1>
   Hola soy Guillermo Salgado, un placer tenerte aqui.
