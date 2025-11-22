@@ -12,7 +12,7 @@
 ### 👨‍🦲 Sobre mí :
 
 
-Como te digo que para aprender a usar la computadora, descompuse la computadora familiar 5 veces y ahora armo computadoras como hobby y estoy en transición laboral al Data Analytics <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdudmV3aG01N2cwbWxidGJnczJldjlud2ZrODlsZzNqa25qZzYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkVpoRawXYW5i/giphy.gif)" width="30"> 
+Analista de Datos Junior con una pasión genuina por transformar datos complejos en conocimiento estratégico. Me motiva el proceso de descubrir patrones e impulsar un impacto positivo en el negocio. Mi fuerte reside en la visualización de datos y el uso de herramientas como SQL y Power BI para entregar soluciones claras y efectivas. ¡Siempre listo para innovar y aprender nuevas metodologías! <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdudmV3aG01N2cwbWxidGJnczJldjlud2ZrODlsZzNqa25qZzYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkVpoRawXYW5i/giphy.gif)" width="30"> 
    
 * 🚚 Actualmente trabajo en logisitca como representante de cuentas, pero siempre he sabido que lo mio son los datos 🧾  
 
