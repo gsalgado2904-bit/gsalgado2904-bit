@@ -57,5 +57,6 @@ Mis proyectos se centran en transformar datos brutos en decisiones estratégicas
 
 
  ### :fire: Mis estadísticas :
-<img align="center" width="600" alt="Data" src="general.svg">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsalgado2904-bit&theme=dark&background=000000)](https://git.io/streak-stats)
  
