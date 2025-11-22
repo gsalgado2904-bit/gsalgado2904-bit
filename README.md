@@ -3,7 +3,6 @@
   
    <h1>
   Hola soy Guillermo Salgado, un placer tenerte aqui.
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-salgado-ortiz/) 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -13,7 +12,7 @@
 ### 👨‍🦲 Sobre mí :
 
 
-Analista de Datos Junior con una pasión genuina por transformar datos complejos en conocimiento estratégico. Me motiva el proceso de descubrir patrones e impulsar un impacto positivo en el negocio. Mi fuerte reside en la visualización de datos y el uso de herramientas como SQL y Power BI para entregar soluciones claras y efectivas. ¡Siempre listo para innovar y aprender nuevas metodologías! <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdudmV3aG01N2cwbWxidGJnczJldjlud2ZrODlsZzNqa25qZzYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkVpoRawXYW5i/giphy.gif)" width="30"> 
+Como te digo que para aprender a usar la computadora, descompuse la computadora familiar 5 veces y ahora armo computadoras como hobby y estoy en transición laboral al Data Analytics <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdudmV3aG01N2cwbWxidGJnczJldjlud2ZrODlsZzNqa25qZzYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkVpoRawXYW5i/giphy.gif)" width="30"> 
    
 * 🚚 Actualmente trabajo en logisitca como representante de cuentas, pero siempre he sabido que lo mio son los datos 🧾  
 
@@ -52,5 +51,3 @@ Analista de Datos Junior con una pasión genuina por transformar datos complejos
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsalgado2904-bit&theme=dark&background=000000)](https://git.io/streak-stats)
 
  
-
-
