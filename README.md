@@ -58,6 +58,12 @@ Mis proyectos se centran en transformar datos brutos en decisiones estratégicas
 
  ### :fire: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsalgado2904-bit&theme=dark&background=000000)](https://git.io/streak-stats)
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
 
  
